@@ -1,5 +1,5 @@
 import React from 'react';
-import ArtSearch from './Components/Search/artSearch'
+import ArtSearch from '../src/Components/Search/artSearch'
 import './App.css'
 
 function App() {
